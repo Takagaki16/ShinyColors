@@ -157,7 +157,7 @@ errorDialog.errorTitle,エラー,错误
 errorDialog.confirmTitle,確認,确认
 errorDialog.updateNativeAppVersionTitle,最新バージョン確認,最新版本确认
 errorDialog.fesResumeTitle,フェス再開,Fes继续
-errorDialog.updateVersion,バージョンが更新されました。,
+errorDialog.updateVersion,バージョンが更新されました。,版本已更新
 errorDialog.updateNativeAppVersion,アプリのバージョンアップが必要です。\nストアから最新バージョンを\nダウンロードしてください。,
 errorDialog.invalidSession,セッション更新の必要があります。\n\n何度も発生する場合は\nゲーム内の「お知らせ」→「お問い合わせ」より\nお問い合わせください。\n\nお問い合わせID: %{requestId}\nエラーコード: %{errorCode},
 errorDialog.produceDuplicate,進行中のプロデュースがあるので\n開始できませんでした。\n一度プロデュースを終了してから始めてください。,
